@@ -112,7 +112,7 @@
 				title.style.fontSize = '20px';
 
 				const thumbnail = document.createElement('img');
-				thumbnail.style.width = '300px';
+				thumbnail.style.width = '200px';
 				thumbnail.style.height = 'auto';
 				thumbnail.style.objectFit = 'scale-down';
 				thumbnail.src =
